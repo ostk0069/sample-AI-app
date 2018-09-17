@@ -7,14 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8218D2BF214F4869004E3E1E /* backImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2B6214F4867004E3E1E /* backImage.jpg */; };
+		8218D2C0214F4869004E3E1E /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2B7214F4867004E3E1E /* camera.png */; };
+		8218D2C1214F4869004E3E1E /* library.png in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2B8214F4867004E3E1E /* library.png */; };
+		8218D2C2214F4869004E3E1E /* waku.png in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2B9214F4867004E3E1E /* waku.png */; };
+		8218D2C3214F4869004E3E1E /* if_camera_226593.png in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2BA214F4868004E3E1E /* if_camera_226593.png */; };
+		8218D2C4214F4869004E3E1E /* dogIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2BB214F4868004E3E1E /* dogIcon.png */; };
+		8218D2C5214F4869004E3E1E /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2BC214F4868004E3E1E /* icon.png */; };
+		8218D2C6214F4869004E3E1E /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2BD214F4868004E3E1E /* back.png */; };
+		8218D2C7214F4869004E3E1E /* dog.png in Resources */ = {isa = PBXBuildFile; fileRef = 8218D2BE214F4869004E3E1E /* dog.png */; };
 		82B8DF2C2132ABE200B1A5ED /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B8DF2B2132ABE200B1A5ED /* AppDelegate.swift */; };
 		82B8DF2E2132ABE200B1A5ED /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82B8DF2D2132ABE200B1A5ED /* ViewController.swift */; };
 		82B8DF312132ABE200B1A5ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82B8DF2F2132ABE200B1A5ED /* Main.storyboard */; };
 		82B8DF332132ABE400B1A5ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82B8DF322132ABE400B1A5ED /* Assets.xcassets */; };
 		82B8DF362132ABE400B1A5ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82B8DF342132ABE400B1A5ED /* LaunchScreen.storyboard */; };
+		EE5C0FE7BC99240CCD0EC947 /* Pods_petSNS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4124C656B7D3C805D413C7D4 /* Pods_petSNS.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1A48B300B7D6473D1A53DECC /* Pods-petSNS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-petSNS.release.xcconfig"; path = "Pods/Target Support Files/Pods-petSNS/Pods-petSNS.release.xcconfig"; sourceTree = "<group>"; };
+		4124C656B7D3C805D413C7D4 /* Pods_petSNS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_petSNS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		503FFDB808CE7E078B5D6CF8 /* Pods-petSNS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-petSNS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-petSNS/Pods-petSNS.debug.xcconfig"; sourceTree = "<group>"; };
+		8218D2B6214F4867004E3E1E /* backImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backImage.jpg; sourceTree = "<group>"; };
+		8218D2B7214F4867004E3E1E /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		8218D2B8214F4867004E3E1E /* library.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library.png; sourceTree = "<group>"; };
+		8218D2B9214F4867004E3E1E /* waku.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = waku.png; sourceTree = "<group>"; };
+		8218D2BA214F4868004E3E1E /* if_camera_226593.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = if_camera_226593.png; sourceTree = "<group>"; };
+		8218D2BB214F4868004E3E1E /* dogIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dogIcon.png; sourceTree = "<group>"; };
+		8218D2BC214F4868004E3E1E /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		8218D2BD214F4868004E3E1E /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		8218D2BE214F4869004E3E1E /* dog.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog.png; sourceTree = "<group>"; };
 		82B8DF282132ABE200B1A5ED /* petSNS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = petSNS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		82B8DF2B2132ABE200B1A5ED /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		82B8DF2D2132ABE200B1A5ED /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -29,17 +51,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE5C0FE7BC99240CCD0EC947 /* Pods_petSNS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		45543FA6790E4E393FEFA917 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				503FFDB808CE7E078B5D6CF8 /* Pods-petSNS.debug.xcconfig */,
+				1A48B300B7D6473D1A53DECC /* Pods-petSNS.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		82B8DF1F2132ABE200B1A5ED = {
 			isa = PBXGroup;
 			children = (
 				82B8DF2A2132ABE200B1A5ED /* petSNS */,
 				82B8DF292132ABE200B1A5ED /* Products */,
+				45543FA6790E4E393FEFA917 /* Pods */,
+				CCF666F20E0236F911D8F946 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,6 +88,15 @@
 		82B8DF2A2132ABE200B1A5ED /* petSNS */ = {
 			isa = PBXGroup;
 			children = (
+				8218D2BD214F4868004E3E1E /* back.png */,
+				8218D2B6214F4867004E3E1E /* backImage.jpg */,
+				8218D2B7214F4867004E3E1E /* camera.png */,
+				8218D2BE214F4869004E3E1E /* dog.png */,
+				8218D2BB214F4868004E3E1E /* dogIcon.png */,
+				8218D2BC214F4868004E3E1E /* icon.png */,
+				8218D2BA214F4868004E3E1E /* if_camera_226593.png */,
+				8218D2B8214F4867004E3E1E /* library.png */,
+				8218D2B9214F4867004E3E1E /* waku.png */,
 				82B8DF2B2132ABE200B1A5ED /* AppDelegate.swift */,
 				82B8DF2D2132ABE200B1A5ED /* ViewController.swift */,
 				82B8DF2F2132ABE200B1A5ED /* Main.storyboard */,
@@ -64,6 +107,14 @@
 			path = petSNS;
 			sourceTree = "<group>";
 		};
+		CCF666F20E0236F911D8F946 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4124C656B7D3C805D413C7D4 /* Pods_petSNS.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -71,9 +122,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 82B8DF3A2132ABE500B1A5ED /* Build configuration list for PBXNativeTarget "petSNS" */;
 			buildPhases = (
+				4E9B61B86257EEDF54321F5C /* [CP] Check Pods Manifest.lock */,
 				82B8DF242132ABE200B1A5ED /* Sources */,
 				82B8DF252132ABE200B1A5ED /* Frameworks */,
 				82B8DF262132ABE200B1A5ED /* Resources */,
+				EFA3DD51A360E8353945348C /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -122,13 +175,93 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8218D2C7214F4869004E3E1E /* dog.png in Resources */,
+				8218D2C3214F4869004E3E1E /* if_camera_226593.png in Resources */,
+				8218D2BF214F4869004E3E1E /* backImage.jpg in Resources */,
+				8218D2C2214F4869004E3E1E /* waku.png in Resources */,
+				8218D2C1214F4869004E3E1E /* library.png in Resources */,
+				8218D2C4214F4869004E3E1E /* dogIcon.png in Resources */,
 				82B8DF362132ABE400B1A5ED /* LaunchScreen.storyboard in Resources */,
+				8218D2C5214F4869004E3E1E /* icon.png in Resources */,
+				8218D2C6214F4869004E3E1E /* back.png in Resources */,
 				82B8DF332132ABE400B1A5ED /* Assets.xcassets in Resources */,
 				82B8DF312132ABE200B1A5ED /* Main.storyboard in Resources */,
+				8218D2C0214F4869004E3E1E /* camera.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4E9B61B86257EEDF54321F5C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-petSNS-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EFA3DD51A360E8353945348C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-petSNS/Pods-petSNS-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/BoringSSL/openssl.framework",
+				"${BUILT_PRODUCTS_DIR}/EMAlertController/EMAlertController.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/Protobuf/Protobuf.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC/GRPCClient.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-Core/grpc.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-ProtoRPC/ProtoRPC.framework",
+				"${BUILT_PRODUCTS_DIR}/gRPC-RxLibrary/RxLibrary.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/libwebp/libwebp.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/openssl.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/EMAlertController.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Protobuf.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GRPCClient.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/grpc.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ProtoRPC.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxLibrary.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/libwebp.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-petSNS/Pods-petSNS-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		82B8DF242132ABE200B1A5ED /* Sources */ = {
@@ -278,6 +411,7 @@
 		};
 		82B8DF3B2132ABE500B1A5ED /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 503FFDB808CE7E078B5D6CF8 /* Pods-petSNS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -295,6 +429,7 @@
 		};
 		82B8DF3C2132ABE500B1A5ED /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1A48B300B7D6473D1A53DECC /* Pods-petSNS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
